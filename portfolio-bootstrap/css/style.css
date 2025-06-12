@@ -7,3 +7,17 @@
     background-color: black;
     color: white;
 }
+
+.bg-motivation-color {
+    background-color: rgba(255, 255, 255, 0.473);
+    color: white;
+}
+
+.bg-button-color {
+    background-color: blueviolet;
+    color: white;
+}
+
+.text-titles {
+    color: rgb(252, 252, 49);
+}
