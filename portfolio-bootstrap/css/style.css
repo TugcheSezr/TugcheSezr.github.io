@@ -21,3 +21,42 @@
 .text-titles {
     color: rgb(252, 252, 49);
 }
+/*projects.html*/
+.sidebar {
+        background-color: black;
+        min-height: 100vh;
+        padding-top: 20px;
+      }
+
+      .sidebar .nav-link {
+        color: white;
+        margin: 10px 0;
+      }
+
+      .sidebar .nav-link.active {
+        background-color: #ff5eb4;
+        font-weight: bold;
+        border-radius: 5px;
+      }
+
+      .project-image {
+        transition: transform 0.3s ease-in-out;
+        border-radius: 10px;
+      }
+
+      .project-image:hover {
+        transform: scale(1.05);
+      }
+
+      .languages-info {
+        background-color: rgba(5, 21, 17, 0.31);
+        border-radius: 20px;
+        padding: 20px;
+        color: aliceblue;
+        box-shadow: inset 4px 4px 8px rgba(216, 56, 218, 0.644),
+          inset -4px -4px 8px rgba(224, 255, 49, 0.834);
+      }
+
+      .footer img {
+        margin: 10px;
+      }
